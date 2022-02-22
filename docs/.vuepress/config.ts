@@ -12,4 +12,17 @@ export default defineUserConfig<DefaultThemeOptions>({
   themeConfig: {
     logo: "https://vuejs.org/images/logo.png",
   },
+  head: [
+    // 添加百度统计
+    [
+      "script",
+      {},
+      `
+      var hm = document.createElement("script");
+      hm.src = "https://hm.baidu.com/hm.js?bfb3deb14998b016c30cf647b4111fde";
+      var s = document.getElementsByTagName("script")[0]; 
+      s.parentNode.insertBefore(hm, s);
+        `,
+    ],
+  ],
 });
