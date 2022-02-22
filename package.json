@@ -1,0 +1,24 @@
+{
+  "name": "cryptoguide",
+  "version": "1.0.0",
+  "description": "币圈指南",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "docs:dev": "vuepress dev docs",
+    "docs:build": "vuepress build docs"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JeromeYangtao/CryptoGuide.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JeromeYangtao/CryptoGuide/issues"
+  },
+  "homepage": "https://github.com/JeromeYangtao/CryptoGuide#readme",
+  "devDependencies": {
+    "vuepress": "^2.0.0-beta.35"
+  }
+}
