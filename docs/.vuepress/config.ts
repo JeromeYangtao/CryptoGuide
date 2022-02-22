@@ -11,6 +11,30 @@ export default defineUserConfig<DefaultThemeOptions>({
   theme: "@vuepress/theme-default",
   themeConfig: {
     logo: "https://vuejs.org/images/logo.png",
+    sidebarDepth: 2,
+    sidebar: [
+      {
+        text: "基础",
+        link: "/",
+        children: [
+          {
+            text: "快速开始",
+            link: "/test",
+          },
+        ],
+      },
+      {
+        text: "稳定币",
+        link: "/btc",
+        children: [
+          {
+            text: "Luna",
+            link: "文档.md",
+          },
+        ],
+      },
+    ],
+    navbar: [{ text: "首页", link: "/" }],
   },
   head: [
     // 添加百度统计
@@ -24,5 +48,7 @@ export default defineUserConfig<DefaultThemeOptions>({
       s.parentNode.insertBefore(hm, s);
         `,
     ],
+
+    ["link", { rel: "icon", href: "/favicon.ico" }],
   ],
 });
