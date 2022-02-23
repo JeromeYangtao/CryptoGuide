@@ -29,6 +29,10 @@ export default defineUserConfig<DefaultThemeOptions>({
             text: "策略回测：快速验证自己的交易策略",
             link: "/trade/策略回测：快速验证自己的交易策略.html",
           },
+          {
+            text: "混个饭钱：gate.io 交易所 startup 空投",
+            link: "/trade/混个饭钱：gate.io 交易所 startup 空投.html",
+          },
         ],
       },
     ],
