@@ -27,7 +27,7 @@ export default defineUserConfig<DefaultThemeOptions>({
         children: [
           {
             text: "策略回测：快速验证自己的交易策略",
-            link: "/trade/策略回测：快速验证自己的交易策略.md",
+            link: "/trade/策略回测：快速验证自己的交易策略.html",
           },
         ],
       },
