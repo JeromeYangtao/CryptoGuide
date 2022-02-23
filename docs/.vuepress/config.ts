@@ -15,21 +15,19 @@ export default defineUserConfig<DefaultThemeOptions>({
     sidebar: [
       {
         text: "基础",
-        link: "/",
         children: [
           {
             text: "快速开始",
-            link: "/test",
+            link: "/btc",
           },
         ],
       },
       {
-        text: "稳定币",
-        link: "/btc",
+        text: "交易策略",
         children: [
           {
-            text: "Luna",
-            link: "文档.md",
+            text: "策略回测：快速验证自己的交易策略",
+            link: "/trade/策略回测：快速验证自己的交易策略.md",
           },
         ],
       },
