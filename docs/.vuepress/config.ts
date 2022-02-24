@@ -66,6 +66,7 @@ export default defineUserConfig<DefaultThemeOptions>({
     ],
     navbar: [
       { text: "首页", link: "/" },
+      { text: "币圈指标", link: "https://www.defilink.top" },
       { text: "Github", link: "https://github.com/JeromeYangtao/CryptoGuide" },
     ],
   },
