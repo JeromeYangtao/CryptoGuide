@@ -43,29 +43,35 @@ export default defineUserConfig<DefaultThemeOptions>({
           },
 
           {
-            text: "Mcap/tvl 指数抄底成功",
-            link: "/trade/Mcap_tvl 指数抄底成功.html",
-          },
-
-          {
-            text: "BTC最多会跌多少？历年走势复盘",
-            link: "/trade/BTC最多会跌多少？历年走势复盘.html",
-          },
-          {
             text: "屯币不炒：长盈致富",
             link: "/trade/屯币不炒：长盈致富.html",
           },
 
-          {
-            text: "BTC大趋势：现在到底处于什么位置",
-            link: "/trade/BTC大趋势：现在到底处于什么位置.html",
-          },
           {
             text: "交易第一定律：买卖守恒",
             link: "/trade/交易第一定律：买卖守恒.html",
           },
         ],
       },
+
+      {
+        text: "市场判断",
+        children: [
+          {
+            text: "BTC大趋势：现在到底处于什么位置",
+            link: "/trade/BTC大趋势：现在到底处于什么位置.html",
+          },
+          {
+            text: "BTC最多会跌多少？历年走势复盘",
+            link: "/trade/BTC最多会跌多少？历年走势复盘.html",
+          },
+          {
+            text: "Mcap/tvl 指数抄底成功",
+            link: "/trade/Mcap_tvl 指数抄底成功.html",
+          },
+        ],
+      },
+
       {
         text: "数据指标",
         children: [
@@ -76,6 +82,10 @@ export default defineUserConfig<DefaultThemeOptions>({
           {
             text: "资金费率",
             link: "https://www.coinglass.com/zh/funding/BTC",
+          },
+          {
+            text: "TVL",
+            link: "https://defillama.com/chains",
           },
         ],
       },
