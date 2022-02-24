@@ -1,17 +1,14 @@
-![image.png](https://cdn.nlark.com/yuque/0/2022/png/297838/1644150081457-93b1e7f6-7dd1-4d8c-9fcd-6b95d7057d4d.png#clientId=u47edec33-768d-4&from=paste&height=617&id=uf5659cc3&margin=%5Bobject%20Object%5D&name=image.png&originHeight=1234&originWidth=2850&originalType=binary&ratio=1&size=257540&status=done&style=none&taskId=ua08a9502-83be-4041-886b-bedc2b7119b&width=1425)
-
+![](https://s3.bmp.ovh/imgs/2022/02/85b1853656fece2c.png)
 
 ### 1.21 抄底成功
 
+1 月 21 号暴跌之后抄底了一份以太坊，从 2500 涨到了今天的 3000 点，20% 的涨幅。不说赚的多不多，但又一次验证了自己的指数的正确性，开心
 
-1月21号暴跌之后抄底了一份以太坊，从 2500 涨到了今天的 3000 点，20% 的涨幅。不说赚的多不多，但又一次验证了自己的指数的正确性，开心
-
-
-![image.png](https://cdn.nlark.com/yuque/0/2022/png/297838/1644150196686-3304d267-bcfb-41a5-b165-77e2dcfb775c.png#clientId=u47edec33-768d-4&from=paste&height=515&id=uaa0fcb31&margin=%5Bobject%20Object%5D&name=image.png&originHeight=1030&originWidth=1378&originalType=binary&ratio=1&size=869775&status=done&style=none&taskId=ucd4813ba-438e-4a1e-ad35-42a26fab186&width=689)
-
+![](https://s3.bmp.ovh/imgs/2022/02/c6d8cb1df5d6978f.png)
 
 ### 买入和指数的逻辑
-这不是我第一次用这个指数的指导买入卖出了，成功率还可以（虽然不是100%），尤其是在 ETH 上，拟合度非常好，成功率很高。
+
+这不是我第一次用这个指数的指导买入卖出了，成功率还可以（虽然不是 100%），尤其是在 ETH 上，拟合度非常好，成功率很高。
 ​
 
 tvl/mcap 指数的逻辑非常简单，就是用代币的锁仓量除以币的流通市值，用这个比例来代表买入币的性价比。
@@ -25,14 +22,9 @@ tvl/mcap 指数的逻辑非常简单，就是用代币的锁仓量除以币的�
 
 ### 指数公开查看
 
-
 [https://www.defilink.top](https://www.defilink.top/)
 
-
 这个指数之前只是自己使用，现在把它发在公网上，欢迎接受大家的长期检验
-
-
-
 
 **仅做个人观察记录，不作为任何投资建议。**
 **​**
@@ -41,4 +33,3 @@ tvl/mcap 指数的逻辑非常简单，就是用代币的锁仓量除以币的�
 ​
 
 ​
-
