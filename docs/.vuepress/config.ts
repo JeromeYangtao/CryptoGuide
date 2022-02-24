@@ -64,7 +64,10 @@ export default defineUserConfig<DefaultThemeOptions>({
         ],
       },
     ],
-    navbar: [{ text: "首页", link: "/" }],
+    navbar: [
+      { text: "首页", link: "/" },
+      { text: "Github", link: "https://github.com/JeromeYangtao/CryptoGuide" },
+    ],
   },
   head: [
     // 添加百度统计
