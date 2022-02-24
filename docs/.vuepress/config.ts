@@ -28,7 +28,6 @@ export default defineUserConfig<DefaultThemeOptions>({
       },
       {
         text: "交易策略",
-
         children: [
           {
             text: "策略回测：快速验证自己的交易策略",
@@ -64,6 +63,19 @@ export default defineUserConfig<DefaultThemeOptions>({
           {
             text: "交易第一定律：买卖守恒",
             link: "/trade/交易第一定律：买卖守恒.html",
+          },
+        ],
+      },
+      {
+        text: "数据指标",
+        children: [
+          {
+            text: "tvl/mcap",
+            link: "https://www.defilink.top",
+          },
+          {
+            text: "资金费率",
+            link: "https://www.coinglass.com/zh/funding/BTC",
           },
         ],
       },
