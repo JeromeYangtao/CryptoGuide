@@ -124,24 +124,5 @@ export default defineUserConfig<DefaultThemeOptions>({
       type: "waline",
       serverURL: "https://dn22lavo.api.lncldglobal.com",
     }),
-
-    [
-      "vuepress-plugin-comment", // 评论
-      {
-        choosen: "gitalk", // 后面有获取教程
-        options: {
-          clientID: "ef66cd8e486f9ed240b9",
-          clientSecret: "8a20c1e97c144b4b64c0d4dfb7f8b2941e89038b",
-          repo: "币圈生存指南",
-          owner: "JeromeYangtao",
-          admin: ["JeromeYangtao"],
-          pagerDirection: "last",
-          id: '<%- (frontmatter.permalink || frontmatter.to.path || "123456789012345").slice(-16) %>',
-          title: "「评论」<%- frontmatter.title %>",
-          labels: ["Gitalk", "Comment"],
-          body: '页面：<%- window.location.origin + (frontmatter.to.path || window.location.pathname || "123456789012345") %>',
-        },
-      },
-    ],
   ],
 });
