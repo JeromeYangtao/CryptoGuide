@@ -1,6 +1,5 @@
 import { defineUserConfig } from "vuepress";
 import type { DefaultThemeOptions } from "vuepress";
-import { comment } from "vuepress-plugin-comment2";
 
 export default defineUserConfig<DefaultThemeOptions>({
   // 站点配置
@@ -97,32 +96,13 @@ export default defineUserConfig<DefaultThemeOptions>({
       { text: "Github", link: "https://github.com/JeromeYangtao/CryptoGuide" },
     ],
   },
-  head: [
-    // 添加百度统计
-    // [
-    //   "script",
-    //   {},
-    //   `
-    //   var hm = document.createElement("script");
-    //   hm.src = "https://hm.baidu.com/hm.js?bfb3deb14998b016c30cf647b4111fde";
-    //   var s = document.getElementsByTagName("script")[0];
-    //   s.parentNode.insertBefore(hm, s);
-    //     `,
-    // ],
-
-    ["link", { rel: "icon", href: "/favicon.ico" }],
-  ],
+  head: [["link", { rel: "icon", href: "/favicon.ico" }]],
   plugins: [
     [
       "vuepress-plugin-baidu-tongji", // 百度统计
       {
-        hm: "bfb3deb14998b016c30cf647b4111fde", // 百度统计id，后面有获取教程
+        hm: "bfb3deb14998b016c30cf647b4111fde",
       },
     ],
-    comment({
-      // 插件选项
-      type: "waline",
-      serverURL: "https://dn22lavo.api.lncldglobal.com",
-    }),
   ],
 });

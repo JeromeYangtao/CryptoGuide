@@ -20,7 +20,6 @@
   "homepage": "https://github.com/JeromeYangtao/CryptoGuide#readme",
   "devDependencies": {
     "vuepress": "^2.0.0-beta.35",
-    "vuepress-plugin-baidu-tongji": "^1.0.1",
-    "vuepress-plugin-comment2": "^2.0.0-alpha.34"
+    "vuepress-plugin-baidu-tongji": "^1.0.1"
   }
 }
