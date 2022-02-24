@@ -1,5 +1,6 @@
 import { defineUserConfig } from "vuepress";
 import type { DefaultThemeOptions } from "vuepress";
+import { comment } from "vuepress-plugin-comment2";
 
 export default defineUserConfig<DefaultThemeOptions>({
   // 站点配置
@@ -98,17 +99,49 @@ export default defineUserConfig<DefaultThemeOptions>({
   },
   head: [
     // 添加百度统计
-    [
-      "script",
-      {},
-      `
-      var hm = document.createElement("script");
-      hm.src = "https://hm.baidu.com/hm.js?bfb3deb14998b016c30cf647b4111fde";
-      var s = document.getElementsByTagName("script")[0]; 
-      s.parentNode.insertBefore(hm, s);
-        `,
-    ],
+    // [
+    //   "script",
+    //   {},
+    //   `
+    //   var hm = document.createElement("script");
+    //   hm.src = "https://hm.baidu.com/hm.js?bfb3deb14998b016c30cf647b4111fde";
+    //   var s = document.getElementsByTagName("script")[0];
+    //   s.parentNode.insertBefore(hm, s);
+    //     `,
+    // ],
 
     ["link", { rel: "icon", href: "/favicon.ico" }],
+  ],
+  plugins: [
+    [
+      "vuepress-plugin-baidu-tongji", // 百度统计
+      {
+        hm: "bfb3deb14998b016c30cf647b4111fde", // 百度统计id，后面有获取教程
+      },
+    ],
+    comment({
+      // 插件选项
+      type: "waline",
+      serverURL: "https://dn22lavo.api.lncldglobal.com",
+    }),
+
+    [
+      "vuepress-plugin-comment", // 评论
+      {
+        choosen: "gitalk", // 后面有获取教程
+        options: {
+          clientID: "ef66cd8e486f9ed240b9",
+          clientSecret: "8a20c1e97c144b4b64c0d4dfb7f8b2941e89038b",
+          repo: "币圈生存指南",
+          owner: "JeromeYangtao",
+          admin: ["JeromeYangtao"],
+          pagerDirection: "last",
+          id: '<%- (frontmatter.permalink || frontmatter.to.path || "123456789012345").slice(-16) %>',
+          title: "「评论」<%- frontmatter.title %>",
+          labels: ["Gitalk", "Comment"],
+          body: '页面：<%- window.location.origin + (frontmatter.to.path || window.location.pathname || "123456789012345") %>',
+        },
+      },
+    ],
   ],
 });
