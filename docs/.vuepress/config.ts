@@ -20,6 +20,10 @@ export default defineUserConfig<DefaultThemeOptions>({
             text: "快速开始",
             link: "/basic/btc.html",
           },
+          {
+            text: "严正声明",
+            link: "/basic/严正声明.html",
+          },
         ],
       },
       {
