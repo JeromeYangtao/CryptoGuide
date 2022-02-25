@@ -12,7 +12,7 @@ BTC 毕竟是一种新型的投资品种，不像成熟的股票基金，有很�
 
 ### 2016 大牛市
 
-![image.png](https://cdn.nlark.com/yuque/0/2022/png/297838/1644410064409-9c936371-9921-4b4f-9dac-524e2ca0df75.png#clientId=u40890c69-be54-4&crop=0&crop=0&crop=1&crop=1&from=paste&height=408&id=uc6d100bf&margin=%5Bobject%20Object%5D&name=image.png&originHeight=816&originWidth=1380&originalType=binary&ratio=1&rotation=0&showTitle=false&size=320525&status=done&style=none&taskId=uf4478c88-ba4c-4991-bd28-09d2bf45cc6&title=&width=690)
+![](https://s3.bmp.ovh/imgs/2022/02/41f9f195a32dd323.png)
 
 16 年是一个大牛市，除了短暂的回调，大部分时间都在上涨。从年初的 400 点一路涨到年底的 1000 年，这一年应该是大多数人都赚钱的一年
 ​
