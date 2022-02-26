@@ -110,6 +110,14 @@ export default defineUserConfig<DefaultThemeOptions>({
       },
     ],
     ["link", { rel: "icon", href: "/images/logo.png" }],
+    // 360验证
+    [
+      "meta",
+      {
+        name: "360-site-verification",
+        content: "69ab2b05253ab464f2494d53a2dd511c",
+      },
+    ],
     // 百度验证
     ["meta", { name: "baidu-site-verification", content: "code-D3gL0A1DDB" }],
     // 百度统计
