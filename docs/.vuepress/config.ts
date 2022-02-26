@@ -136,7 +136,7 @@ export default defineUserConfig<DefaultThemeOptions>({
   ],
   plugins: [
     [
-      "@mr-hope/sitemap",
+      "vuepress-plugin-sitemap2",
       {
         hostname: "https://cryptoguide.cn",
       },

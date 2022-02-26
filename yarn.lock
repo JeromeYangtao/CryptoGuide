@@ -18,6 +18,19 @@
     fs-extra "^10.0.0"
     sitemap "^7.1.1"
 
+"@mr-hope/vuepress-shared@2.0.0-alpha.33":
+  version "2.0.0-alpha.33"
+  resolved "https://registry.yarnpkg.com/@mr-hope/vuepress-shared/-/vuepress-shared-2.0.0-alpha.33.tgz#6b15ff836e56351471ac3731342c3eefbb62aac5"
+  integrity sha512-+y8KP1xLNZZNRdsLccZ+745Rt9EouMF6mQesPROBq736ysHwJGOkPSNsCbJvvYjyiEIDVbKX3jmtGEyGDBrN+Q==
+  dependencies:
+    "@vuepress/client" "2.0.0-beta.35"
+    "@vuepress/plugin-git" "2.0.0-beta.35"
+    "@vuepress/plugin-theme-data" "2.0.0-beta.35"
+    chalk "^4.1.2"
+    dayjs "^1.10.7"
+    ora "^5.4.1"
+    vue "^3.2.31"
+
 "@mr-hope/vuepress-types@1.28.1":
   version "1.28.1"
   resolved "https://registry.yarnpkg.com/@mr-hope/vuepress-types/-/vuepress-types-1.28.1.tgz#36d3abb85ead923ed7c49dd3e36378259e684bcc"
@@ -781,6 +794,11 @@ csstype@^2.6.8:
   version "2.6.19"
   resolved "https://registry.yarnpkg.com/csstype/-/csstype-2.6.19.tgz#feeb5aae89020bb389e1f63669a5ed490e391caa"
   integrity sha512-ZVxXaNy28/k3kJg0Fou5MiYpp88j7H9hLZp8PDC3jV0WFjfH5E9xHb56L0W59cPbKbcHXeP4qyT8PrHp8t6LcQ==
+
+dayjs@^1.10.7:
+  version "1.10.7"
+  resolved "https://registry.yarnpkg.com/dayjs/-/dayjs-1.10.7.tgz#2cf5f91add28116748440866a0a1d26f3a6ce468"
+  integrity sha512-P6twpd70BcPK34K26uJ1KT3wlhpuOAPoMwJzpsIWUxHZ7wpmbdZL/hQqBDfz7hGurYSa5PhzdhDHtt319hL3ig==
 
 debug@^4.3.3:
   version "4.3.3"
@@ -1803,7 +1821,7 @@ vue@^2.6.14:
   resolved "https://registry.yarnpkg.com/vue/-/vue-2.6.14.tgz#e51aa5250250d569a3fbad3a8a5a687d6036e235"
   integrity sha512-x2284lgYvjOMj3Za7kqzRcUSxBboHqtgRE2zlos1qWaOye5yUmHn42LB1250NJBLRwEcdrB0JRwyPTEPhfQjiQ==
 
-vue@^3.2.28:
+vue@^3.2.28, vue@^3.2.31:
   version "3.2.31"
   resolved "https://registry.yarnpkg.com/vue/-/vue-3.2.31.tgz#e0c49924335e9f188352816788a4cca10f817ce6"
   integrity sha512-odT3W2tcffTiQCy57nOT93INw1auq5lYLLYtWpPYQQYQOOdHiqFct9Xhna6GJ+pJQaF67yZABraH47oywkJgFw==
@@ -1813,6 +1831,16 @@ vue@^3.2.28:
     "@vue/runtime-dom" "3.2.31"
     "@vue/server-renderer" "3.2.31"
     "@vue/shared" "3.2.31"
+
+vuepress-plugin-sitemap2@^2.0.0-alpha.33:
+  version "2.0.0-alpha.33"
+  resolved "https://registry.yarnpkg.com/vuepress-plugin-sitemap2/-/vuepress-plugin-sitemap2-2.0.0-alpha.33.tgz#bcad6556f9d6ca259174d0489180360cf0c5dba0"
+  integrity sha512-hXdarUnKOCd6nD9SHXNcSBOcUmopQeHgHUjWtjS3AD0KRAmc3L7YJM2QX8s8EYTMBwLJCjQv4uWx6fdsUtJNCg==
+  dependencies:
+    "@mr-hope/vuepress-shared" "2.0.0-alpha.33"
+    "@vuepress/core" "2.0.0-beta.35"
+    "@vuepress/utils" "2.0.0-beta.35"
+    sitemap "^7.1.1"
 
 vuepress-vite@2.0.0-beta.35:
   version "2.0.0-beta.35"
