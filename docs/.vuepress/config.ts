@@ -122,6 +122,15 @@ export default defineUserConfig<DefaultThemeOptions>({
     ["script", { src: "/js/360.js" }],
     // 百度验证
     ["meta", { name: "baidu-site-verification", content: "code-D3gL0A1DDB" }],
+    // 谷歌验证
+    [
+      "meta",
+      {
+        name: "google-site-verification",
+        content: "FVQR7btvyCeMgpfs0e-vIpxlqmFtU76V4ynenbF6NQo",
+      },
+    ],
+
     // 百度统计
     [
       "script",
