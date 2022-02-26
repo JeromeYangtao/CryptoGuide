@@ -19,14 +19,14 @@ BTC 毕竟是一种新型的投资品种，不像成熟的股票基金，有很�
 
 ### 2017 更大的牛市
 
-![image.png](https://cdn.nlark.com/yuque/0/2022/png/297838/1644410139763-7a8eb4c9-8dfe-4e37-97b4-c1c4625a67f0.png#clientId=u40890c69-be54-4&crop=0&crop=0&crop=1&crop=1&from=paste&height=409&id=uae19a1cc&margin=%5Bobject%20Object%5D&name=image.png&originHeight=818&originWidth=1396&originalType=binary&ratio=1&rotation=0&showTitle=false&size=313811&status=done&style=none&taskId=ud17f8eba-7b4c-47fa-b85e-b63e8d4e366&title=&width=698)
+![](https://s3.bmp.ovh/imgs/2022/02/7341b6051ef9c97b.png)
 
 16 年已经是牛市了，没想到 17 年更猛。说实话看到 k 线的时候我都震惊了，年初到年底一直涨，从 1000 点涨到 13000 点，翻了 13 倍
 ​
 
 ### 2018 大熊市：物极必反
 
-![image.png](https://cdn.nlark.com/yuque/0/2022/png/297838/1644410264312-cb419a1c-cd88-48a0-80fb-c05d20824c73.png#clientId=u40890c69-be54-4&crop=0&crop=0&crop=1&crop=1&from=paste&height=407&id=uaa5c70e1&margin=%5Bobject%20Object%5D&name=image.png&originHeight=813&originWidth=1390&originalType=binary&ratio=1&rotation=0&showTitle=false&size=346681&status=done&style=none&taskId=uebb276d3-b8c9-48e8-996f-7156f1170fa&title=&width=695)
+![](https://s3.bmp.ovh/imgs/2022/02/88f399ffffb9522d.png)
 
 如果没有经历 16、17 年的牛市，在 18 年进场的就没有这么幸运了。
 ​
@@ -35,21 +35,21 @@ BTC 毕竟是一种新型的投资品种，不像成熟的股票基金，有很�
 
 ### 2019 先涨后跌
 
-![image.png](https://cdn.nlark.com/yuque/0/2022/png/297838/1644410453318-ad1402d2-709a-4587-9137-2707254b2a26.png#clientId=u40890c69-be54-4&crop=0&crop=0&crop=1&crop=1&from=paste&height=410&id=u00c67180&margin=%5Bobject%20Object%5D&name=image.png&originHeight=820&originWidth=1398&originalType=binary&ratio=1&rotation=0&showTitle=false&size=327649&status=done&style=none&taskId=uc78af01b-a946-4350-85be-916e065471a&title=&width=699)
+![](https://s3.bmp.ovh/imgs/2022/02/6ce1c9505d3e9285.png)
 
 相比前三年的极端行情，19 年波动相对小一点。年初从 4000 点一路上涨到 13000 点的高点，随后开始震荡下跌，收在了 7500 点，相比年初差不多还是翻倍的。
 ​
 
 ### 2020 震荡上涨
 
-![image.png](https://cdn.nlark.com/yuque/0/2022/png/297838/1644410754070-836dfa50-3c39-4291-8a9a-9b24d7002acb.png#clientId=u40890c69-be54-4&crop=0&crop=0&crop=1&crop=1&from=paste&height=426&id=u4dee6193&margin=%5Bobject%20Object%5D&name=image.png&originHeight=851&originWidth=1402&originalType=binary&ratio=1&rotation=0&showTitle=false&size=331602&status=done&style=none&taskId=u8fcfdffd-ed94-4c28-925b-5e074227202&title=&width=701)
+![](https://s3.bmp.ovh/imgs/2022/02/d6906fd15657a130.png)
 
 20 年的行情也比较友好，一轮牛市，7500 点开始一路上涨，年底收在 32000 点，相比年初涨了 4 倍
 ​
 
 ### 2021 双顶震荡
 
-![image.png](https://cdn.nlark.com/yuque/0/2022/png/297838/1644410847874-6a36c25a-695f-49f5-8f96-f4ea2e033928.png#clientId=u40890c69-be54-4&crop=0&crop=0&crop=1&crop=1&from=paste&height=426&id=u28845e5a&margin=%5Bobject%20Object%5D&name=image.png&originHeight=852&originWidth=1398&originalType=binary&ratio=1&rotation=0&showTitle=false&size=484571&status=done&style=none&taskId=u30451ecd-cdf3-4009-8761-c96b4698f9e&title=&width=699)
+![](https://s3.bmp.ovh/imgs/2022/02/3f1d8595b1425e99.png)
 
 21 年以大幅度震荡为主。两次到达 6w 高点，收在 47000 点，相比年初的 29000 点还是有 50% 的涨幅
 ​
@@ -58,12 +58,12 @@ BTC 毕竟是一种新型的投资品种，不像成熟的股票基金，有很�
 
 ### 极限跌幅
 
-![image.png](https://cdn.nlark.com/yuque/0/2022/png/297838/1644410993297-cfb0b19b-2f4d-47dc-8de8-83b49e30d1fb.png#clientId=u40890c69-be54-4&crop=0&crop=0&crop=1&crop=1&from=paste&height=427&id=u2e416daf&margin=%5Bobject%20Object%5D&name=image.png&originHeight=854&originWidth=1402&originalType=binary&ratio=1&rotation=0&showTitle=false&size=375663&status=done&style=none&taskId=u9d9a9cf9-b005-4c33-9f58-dadf4f24a59&title=&width=701)
+![](https://s3.bmp.ovh/imgs/2022/02/90cebb84091934a8.png)
 
 从周线级别来看，跌幅最深，持续时间最长的跌幅无疑是 18 年的一轮大熊市。从 19000 点跌到了 3500 点左右，跌得只剩 18 %，持续时间略长于一年。
 ​
 
-除此之外还有若干次腰斩的经历。另外值得注意的是，**不能盲目把腰斩当做低点**，以 20 年 2 月的行情为例，如果从 1 万点跌到了 3 千点，如果在腰斩的时候进场，也就是 5 千点的时候进场。跌到最低点 3 千点的时候，仍然有 40 %的浮亏
+除此之外还有若干次腰斩的经历。另外值得注意的是，**不能盲目把腰斩当做低点**，以 20 年 2 月的行情为例，从 1 万点跌到了 3 千点，如果在腰斩的时候进场，也就是 5 千点的时候进场。跌到最低点 3 千点的时候，仍然有 40 %的浮亏
 ​
 
 但如果 BTC 真的跌到了 70%-80% 的幅度，可能是一个极好的机会。
