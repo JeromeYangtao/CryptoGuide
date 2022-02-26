@@ -19,6 +19,7 @@
   },
   "homepage": "https://github.com/JeromeYangtao/CryptoGuide#readme",
   "devDependencies": {
+    "@mr-hope/vuepress-plugin-sitemap": "^1.28.1",
     "vuepress": "^2.0.0-beta.35"
   }
 }

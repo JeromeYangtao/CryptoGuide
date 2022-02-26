@@ -134,5 +134,12 @@ export default defineUserConfig<DefaultThemeOptions>({
       },
     ],
   ],
-  plugins: [],
+  plugins: [
+    [
+      "@mr-hope/sitemap",
+      {
+        hostname: "https://cryptoguide.cn",
+      },
+    ],
+  ],
 });

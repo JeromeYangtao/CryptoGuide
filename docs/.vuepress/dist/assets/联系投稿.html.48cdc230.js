@@ -1,0 +1,1 @@
+const t={key:"v-05cf45d8",path:"/basic/%E8%81%94%E7%B3%BB%E6%8A%95%E7%A8%BF.html",title:"",lang:"zh-CN",frontmatter:{},excerpt:"",headers:[],git:{updatedTime:1645860224e3,contributors:[{name:"mianyun.yt",email:"mianyun.yt@alibaba-inc.com",commits:1}]},filePathRelative:"basic/\u8054\u7CFB\u6295\u7A3F.md"};export{t as data};
