@@ -10,7 +10,7 @@ export default defineUserConfig<DefaultThemeOptions>({
   // 主题和它的配置
   theme: "@vuepress/theme-default",
   themeConfig: {
-    logo: "https://vuejs.org/images/logo.png",
+    logo: "/images/logo.png",
     sidebarDepth: 2,
     sidebar: [
       {
@@ -18,11 +18,15 @@ export default defineUserConfig<DefaultThemeOptions>({
         children: [
           {
             text: "快速开始",
-            link: "/basic/btc.html",
+            link: "/",
           },
           {
             text: "严正声明",
             link: "/basic/严正声明.html",
+          },
+          {
+            text: "联系投稿",
+            link: "/basic/联系投稿.html",
           },
         ],
       },
@@ -96,7 +100,7 @@ export default defineUserConfig<DefaultThemeOptions>({
       { text: "Github", link: "https://github.com/JeromeYangtao/CryptoGuide" },
     ],
   },
-  head: [["link", { rel: "icon", href: "/favicon.ico" }]],
+  head: [["link", { rel: "icon", href: "/images/logo.png" }]],
   plugins: [
     [
       "vuepress-plugin-baidu-tongji", // 百度统计
