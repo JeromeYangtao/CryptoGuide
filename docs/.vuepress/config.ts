@@ -102,7 +102,9 @@ export default defineUserConfig<DefaultThemeOptions>({
   },
   head: [
     ["link", { rel: "icon", href: "/images/logo.png" }],
-    // 添加百度统计
+    // 百度验证
+    ["meta", { name: "baidu-site-verification", content: "code-D3gL0A1DDB" }],
+    // 百度统计
     [
       "script",
       {},
