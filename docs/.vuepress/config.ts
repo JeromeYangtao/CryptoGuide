@@ -100,13 +100,22 @@ export default defineUserConfig<DefaultThemeOptions>({
       { text: "Github", link: "https://github.com/JeromeYangtao/CryptoGuide" },
     ],
   },
-  head: [["link", { rel: "icon", href: "/images/logo.png" }]],
-  plugins: [
+  head: [
+    ["link", { rel: "icon", href: "/images/logo.png" }],
+    // 添加百度统计
     [
-      "vuepress-plugin-baidu-tongji", // 百度统计
-      {
-        hm: "bfb3deb14998b016c30cf647b4111fde",
-      },
+      "script",
+      {},
+      `
+      var _hmt = _hmt || [];
+      (function() {
+        var hm = document.createElement("script");
+        hm.src = "https://hm.baidu.com/hm.js?bfb3deb14998b016c30cf647b4111fde";
+        var s = document.getElementsByTagName("script")[0]; 
+        s.parentNode.insertBefore(hm, s);
+      })();
+        `,
     ],
   ],
+  plugins: [],
 });
