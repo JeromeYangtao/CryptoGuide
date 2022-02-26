@@ -101,6 +101,14 @@ export default defineUserConfig<DefaultThemeOptions>({
     ],
   },
   head: [
+    [
+      "meta",
+      {
+        name: "keywords",
+        content:
+          "币圈生存指南,币圈生存指南，一份币圈人从入门到进阶的全方位指南。比特币 BTC、以太坊 ETH、泰达币 USDT",
+      },
+    ],
     ["link", { rel: "icon", href: "/images/logo.png" }],
     // 百度验证
     ["meta", { name: "baidu-site-verification", content: "code-D3gL0A1DDB" }],
