@@ -118,6 +118,17 @@ export default defineUserConfig<DefaultThemeOptions>({
         content: "69ab2b05253ab464f2494d53a2dd511c",
       },
     ],
+    // 360 自动提交
+    [
+      "script",
+      {},
+      `
+        (function(){
+          var src = "https://s.ssl.qhres2.com/ssl/ab77b6ea7f3fbf79.js";
+          document.write('<script src="' + src + '" id="sozz"><\/script>');
+          })();
+      `,
+    ],
     // 百度验证
     ["meta", { name: "baidu-site-verification", content: "code-D3gL0A1DDB" }],
     // 百度统计
