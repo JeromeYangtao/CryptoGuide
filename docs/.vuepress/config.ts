@@ -118,6 +118,13 @@ export default defineUserConfig<DefaultThemeOptions>({
       })();
         `,
     ],
+    // 添加百度站长的自动推送代码
+    [
+      "script",
+      {
+        src: "/js/baidu.js",
+      },
+    ],
   ],
   plugins: [],
 });
