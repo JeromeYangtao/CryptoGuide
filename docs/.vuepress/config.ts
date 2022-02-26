@@ -1,6 +1,9 @@
 import { defineUserConfig } from "vuepress";
 import type { DefaultThemeOptions } from "vuepress";
 
+const description =
+  "币圈生存指南,币圈生存指南，一份币圈人从入门到进阶的全方位指南。比特币 BTC、以太坊 ETH、泰达币 USDT";
+
 export default defineUserConfig<DefaultThemeOptions>({
   // 站点配置
   lang: "zh-CN",
@@ -105,8 +108,14 @@ export default defineUserConfig<DefaultThemeOptions>({
       "meta",
       {
         name: "keywords",
-        content:
-          "币圈生存指南,币圈生存指南，一份币圈人从入门到进阶的全方位指南。比特币 BTC、以太坊 ETH、泰达币 USDT",
+        content: description,
+      },
+    ],
+    [
+      "meta",
+      {
+        name: "description",
+        content: description,
       },
     ],
     ["link", { rel: "icon", href: "/images/logo.png" }],
