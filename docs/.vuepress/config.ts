@@ -45,6 +45,10 @@ export default defineUserConfig<DefaultThemeOptions>({
             link: "/trade/混个饭钱：startup 空投.html",
           },
           {
+            text: "期现套利：低风险套利年化 10~20%",
+            link: "/trade/期现套利：低风险套利.html",
+          },
+          {
             text: "资金费率和市场情绪",
             link: "/trade/资金费率和市场情绪.html",
           },
