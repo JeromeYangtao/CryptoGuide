@@ -31,6 +31,10 @@ export default defineUserConfig<DefaultThemeOptions>({
             text: "联系投稿",
             link: "/basic/联系投稿.html",
           },
+          {
+            text: "比特币的价值",
+            link: "/basic/比特币的价值.html",
+          },
         ],
       },
       {
