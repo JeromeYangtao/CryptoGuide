@@ -81,6 +81,10 @@ export default defineUserConfig<DefaultThemeOptions>({
             link: "/trade/BTC最多会跌多少？历年走势复盘.html",
           },
           {
+            text: "矿机关机价：不可能跌破的价格",
+            link: "/trade/矿机关机价：不可能跌破的价格.html",
+          },
+          {
             text: "Mcap/tvl 指数抄底成功",
             link: "/trade/Mcap_tvl 指数抄底成功.html",
           },
